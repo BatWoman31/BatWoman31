@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BatWoman31
-- 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning C/C++
-- 💞️ If you have some good tips, or cool projects I would love to see them.
-- 📫 Aaaand you can always reach me through DM
+- 🌱 I’m currently learning to live like an awesome frog 👀
+And...
+I 💞️ food.
 
 <!---
 BatWoman31/BatWoman31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
